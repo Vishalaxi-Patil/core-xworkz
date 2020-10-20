@@ -1,12 +1,17 @@
-class BloodGroup
+public class BloodGroup
 {
-	public static void main(String[] adhar)
+	public static void main(String[] args)
 	{
-		final String adharNumber="123567785767";
-		final String phoneNumber="8977685647";
-		final String email="vishalaxi.xworkz@gmail.com";
-		Systemtem.out.println("AdharNumber=" +adharNumber);
+		final String adharNumber="675898765467";
+		final String phoneNumber="7898324567";
+		final String emailId="vishalaxi.xworkz@gmail.com";
+		System.out.println("AdharNumber=" +adharNumber);
 		System.out.println("PhoneNumber=" +phoneNumber);
-		System.out.println("Email=" +email);
+		System.out.println("EmailId=" +emailId);
 	}
 }
+		
+		
+		
+		
+		
